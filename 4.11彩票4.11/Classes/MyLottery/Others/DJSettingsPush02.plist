@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>header</key>
+		<string></string>
+		<key>footer</key>
+		<string>没有广告了  大家打起精神 我看好你们</string>
+		<key>items</key>
+		<array>
+			<dict>
+				<key>switchKey</key>
+				<string>push02_00_00</string>
+				<key>accessoryView</key>
+				<string>UISwitch</string>
+				<key>title</key>
+				<string>推送我关注的比赛</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>header</key>
+		<string></string>
+		<key>footer</key>
+		<string></string>
+		<key>items</key>
+		<array>
+			<dict>
+				<key>isRed</key>
+				<true/>
+				<key>UITableViewCellStyle</key>
+				<string>UITableViewCellStyleValue1</string>
+				<key>subTitle</key>
+				<string>00:00</string>
+				<key>title</key>
+				<string>开始时间</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>header</key>
+		<string></string>
+		<key>footer</key>
+		<string></string>
+		<key>items</key>
+		<array>
+			<dict>
+				<key>isRed</key>
+				<true/>
+				<key>UITableViewCellStyle</key>
+				<string>UITableViewCellStyleValue1</string>
+				<key>subTitle</key>
+				<string>23:59</string>
+				<key>title</key>
+				<string>结束时间</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

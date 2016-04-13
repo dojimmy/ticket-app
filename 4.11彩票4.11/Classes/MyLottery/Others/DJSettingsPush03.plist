@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>header</key>
+		<string></string>
+		<key>footer</key>
+		<string>没有广告了  大家打起精神 我看好你们</string>
+		<key>items</key>
+		<array>
+			<dict>
+				<key>switchKey</key>
+				<string>push03_00_00</string>
+				<key>accessoryView</key>
+				<string>UISwitch</string>
+				<key>title</key>
+				<string>中奖动画</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
